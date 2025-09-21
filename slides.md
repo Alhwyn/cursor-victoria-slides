@@ -18,7 +18,6 @@ layout: cover
 
 <GlowBackground>
   <h1 class="text-6xl md:text-8xl font-bold tracking-tight text-white">Cursor Hackathon Victoria</h1>
-  <h3 class="text-xl mt-6">Solo · 6 Hours · Public Voting</h3>
 </GlowBackground>
 
 ---
@@ -43,7 +42,7 @@ layout: cover
 
 - Solo only — no teams this round
 - 4 hours to build
-- Demos: **3 min presentation + 2 min Q&A**
+- Demos: **3 min presentation MAX**
 - Winner decided by **public vote**
 - Be respectful · Be creative · Have fun!
 
@@ -64,11 +63,11 @@ layout: cover
 # Categories 🏆
 
 - **Most Likely to Pay For Subscription ($200 Cursor Credits)**
-  (Example: B2B SaaS, Vertical AI tool, niche productivity app)
+  - (Example: B2B SaaS, Vertical AI tool, niche productivity app)
 - **Most Creative Project ($100 Cursor Credits)**
-  (Example: wild 3D website, clever portfolio project, unexpected mashup)
+  - (Example: wild 3D website, clever portfolio project, unexpected mashup)
 - **Community Picks (Anything)** (**$100 Cursor Credits**)
-  (Example: Somehting cool)
+  - (Example: Somehting cool)
 
 ---
 
@@ -112,16 +111,6 @@ layout: cover
 <img src="./assets/cursor_india_qr.jpeg" alt="QR Code" class="w-64" />
 </div>
 
-_Join our WhatsApp group & stay updated on all things Cursor_
+\_Join Tenfold Vicotira for upcoming events liek these!
 
 ---
-
-# Thank You
-
-Questions? Reach out to me on X!
-
-- Website: <https://www.sanjeed.in>
-- Twitter: <https://x.com/sanjeed_i>
-- LinkedIn: <https://linkedin.com/in/msanjeed>
-
-<small>© Cursor Community</small>
