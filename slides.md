@@ -63,10 +63,12 @@ layout: cover
 
 # Categories 🏆
 
-1. **Most Likely to Pay For**
-2. **Most Creative or Artisitic**
-3. **Best Technical Wizardry**
-4. **Funniest / Quirkiest Hack**
+- **Most Likely to Pay For Subscription ($200 Cursor Credits)**
+  (Example: B2B SaaS, Vertical AI tool, niche productivity app)
+- **Most Creative Project ($100 Cursor Credits)**
+  (Example: wild 3D website, clever portfolio project, unexpected mashup)
+- **Community Picks (Anything)** (**$100 Cursor Credits**)
+  (Example: Somehting cool)
 
 ---
 
