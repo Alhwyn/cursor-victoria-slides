@@ -24,35 +24,99 @@ layout: cover
 
 # Welcome
 
+- Cursor Team!
 - Thanks to **VIATEC** for the venue
-- Organized by the Cursor Community
 
 ---
 
-# Agenda
+# Speaker 1
 
-1. **12:00 – 12:40 pm** | Check-in & Setup
-2. **12:40 – 1:00 pm** | Kickoff & Orientation
-3. **1:00pm – 5:00pm** | Hacking Sprint Begins
-4. **5:00 – 6:30 pm** | Wrap-Up & Networking
+- **Alhwyn Geonzon**: Cursor Hackathon Organizer
+  - https://x.com/alhwynn
+  - email: alhwyn@alhwyn.com
+
+<!--
+Speaker Notes:
+- Introduce yourself as the event organizer
+- Mention your background and current projects
+- Thank everyone for coming
+-->
 
 ---
 
-# Rules
+# Speaker 2
 
-- Solo only — no teams this round
-- 4 hours to build
-- Demos: **3 min presentation MAX**
-- Winner decided by **public vote**
+- **Keiver Treimblay**: _Rapid Cross-Platform Refactors with Cursor Agent_
+  - Building Elastic Energy
+  - Founding Team @bluelearn
+
+<!--
+Speaker Notes:
+- Introduce Keiver and his talk topic
+- Mention his background and current projects
+- Set up his presentation about Cursor Agent
+-->
+
+---
+
+# Game Plan for the Day
+
+<!--
+Speaker Notes:
+- Emphasize this is community-driven and organized for the people
+- This is a cleaned up schedule to ensure everything runs smoothly
+- If anyone sees issues, they should speak up
+- We want this to be fun and well-organized
+-->
+
+- **12:00 PM** — Check-in opens (Cursor credits & project prompts)
+- **12:40 PM** — Quick instructions & rules
+- **1:00 PM** — Build begins
+- **4:00 PM** — Build ends
+- **4:20 PM** — Demos start
+- **5:30-5:50 PM** — Voting
+- **6:00 PM** — Winners announced
+
+---
+
+# Rules & Practical Notes
+
+- **One theme only** for the hackathon
+- **3 hours to build** (1:00 PM - 4:00 PM)
+- **Only requirement to win: DEMO!**
+- Demos: **2 min hard cutoff** (timer will be shown)
+- Limited people can demo
+- Winner decided by **public vote** (ranked 1-4)
+- **Keep demos strictly to 2 minutes** — keeps energy high!
 - Be respectful · Be creative · Have fun!
+
+<!--
+Speaker Notes:
+- Emphasize the 2-minute rule - this is crucial for keeping energy high
+- Explain that Cursor Plinko is a fair lottery system when we have too many demos
+- Mention that we'll announce the theme and judging criteria at 12:40 PM
+- Stress the importance of being respectful and having fun
+-->
 
 ---
 
 # Voting
 
-- Everyone gets **1 vote per category**
-- Scan QR to cast votes
-- Voting closes at **6:00 PM**
+- **Everyone votes** using the slide
+- **Must add team name + project** to the slide
+- **Rank choices** (1-4)
+- Voting: **5:40-5:50 PM**
+- **Winners announced at 6:00 PM**
+
+<!--
+Speaker Notes:
+- Explain that voting is crucial for determining winners
+- Emphasize that team name + project name must be on the slide for clarity
+- Mention that everyone gets to vote - it's democratic
+- We'll announce winners at 6:00 PM sharp
+-->
+
+∆
 
 <div class="flex flex-col items-center gap-4">
   <img src="./assets/vote_qr.png" alt="Voting QR" class="w-64" />
@@ -60,40 +124,62 @@ layout: cover
 
 ---
 
-# Categories 🏆
-
-- **Most Likely to Pay For Subscription ($200 Cursor Credits)**
-  - (Example: B2B SaaS, Vertical AI tool, niche productivity app)
-- **Most Creative Project ($100 Cursor Credits)**
-  - (Example: wild 3D website, clever portfolio project, unexpected mashup)
-- **Community Picks (Anything)** (**$100 Cursor Credits**)
-  - (Example: Somehting cool)
-
----
-
 # Demo Flow
 
-- Presenters called in order (randomized at 5:10)
 - **2 min hard cutoff** – timer will be shown
-- Share screen or live demo
-- Audience votes immediately after all demos
+- **Each presenter has 2 minutes**: what they built and how they used Cursor
+- **If >20 want to demo**: we'll use **Cursor Plinko** to select 20
+- **Share screen or live demo** (or let people try if deployed)
+
+<!--
+Speaker Notes:
+- Explain the 2-minute demo format - what they built and how they used Cursor
+- Mention that we'll use Cursor Plinko if more than 20 want to demo
+- Emphasize the timer will be visible to keep everyone on track
+- Stress the importance of including team name + project name on voting slide
+-->
 
 ---
 
-# Speaker 1
+# Theme 🎯
 
-- **Alhwyn Geonzon**: Cursor Hackathon Organizer
-  - Jr Developer @ Gist Application
-  - building @photobomb
-  - https://x.com/alhwynn
+**Most Likely to Get Public Support and Adoption**
+
+Build something that demonstrates real value and shows you'd actually use it or become a customer of it yourself.
+
+## Prizes 🏆
+
+- **1st Place ($200 Cursor Credits)**
+- **2nd Place ($150 Cursor Credits)**
+- **3rd Place ($100 Cursor Credits)**
+- **4th Place ($50 Cursor Credits)**
+
+<!--
+Speaker Notes:
+- Explain the prize structure with clear 1st through 4th place rankings
+- Emphasize that these are Cursor credits as prizes
+- Give examples of what each place might represent
+- Mention that all top 4 projects get rewarded
+-->
 
 ---
 
-# Speaker 2
+# Cursor Plinko
 
-- **Keiver Treimblay**: _Rapid Cross-Platform Refactors with Cursor Agent_
-  - Building http://Linkrunner.io
-  - Founding Team @bluelearn
+**Random selection tool for demos**
+
+- **URL**: https://cursor-plinko.vercel.app/
+- Used when >20 projects want to demo
+- Ensures fair selection of 20 presenters
+- Keeps the schedule on track
+
+<!--
+Speaker Notes:
+- Explain what Cursor Plinko is and why we use it
+- Show the URL so people can access it
+- Emphasize that it's a fair lottery system
+- Mention that it helps keep the schedule on track
+-->
 
 ---
 
@@ -104,6 +190,13 @@ layout: cover
 <img src="./assets/tenfold.jpeg" alt="Tenfold Victoria" class="w-96" />
 </div>
 
+<!--
+Speaker Notes:
+- Encourage people to join Tenfold Victoria
+- Mention this is for upcoming events like this one
+- Thank everyone for participating
+-->
+
 ---
 
 # Scan to Join the Discord
@@ -111,7 +204,6 @@ layout: cover
 <div class="flex items-center justify-center h-full">
 <img src="./assets/discord.jpg" alt="QR Code" class="w-64" />
 </div>
-
 
 ---
 
@@ -131,5 +223,12 @@ layout: cover
 </div>
 
 \_Join Tenfold Victoria for upcoming events liek these!
+<!--
+Speaker Notes:
+- Show the QR code for joining
+- Encourage people to scan and join
+- Mention this is for future events
+- Thank everyone for coming to the hackathon
+-->
 
 ---
