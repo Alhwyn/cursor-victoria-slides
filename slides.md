@@ -97,20 +97,39 @@ layout: cover
 
 ---
 
-# Join the Tenfold Victoria
+# Join Tenfold Victoria
 
 <div class="flex items-center justify-center h-full">
+<img src="./assets/tenfold_qr.jpg" alt="Tenfold Victoria" class="w-96" />
 <img src="./assets/tenfold.jpeg" alt="Tenfold Victoria" class="w-96" />
 </div>
 
 ---
 
-# Scan to Join
+# Scan to Join the Discord
 
 <div class="flex items-center justify-center h-full">
-<img src="./assets/cursor_india_qr.jpeg" alt="QR Code" class="w-64" />
+<img src="./assets/discord.jpg" alt="QR Code" class="w-64" />
 </div>
 
-\_Join Tenfold Vicotira for upcoming events liek these!
+
+---
+
+# Scan to Sign Up for the Demo 
+
+<div class="flex items-center justify-center h-full">
+<img src="./assets/demo.jpg" alt="QR Code" class="w-64" />
+</div>
+
+
+---
+
+# Scan to Sign Up for the After Party
+
+<div class="flex items-center justify-center h-full">
+<img src="./assets/afterparty.jpg" alt="QR Code" class="w-64" />
+</div>
+
+\_Join Tenfold Victoria for upcoming events liek these!
 
 ---
